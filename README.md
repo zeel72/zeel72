@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Welcome to Om Mangukiya's Profile!
+  Welcome to zeel moradiya's Profile!
 </h1>
 
 <div align="center">
@@ -62,17 +62,17 @@ const om = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=omkumarmangukiya&show_icons=true&theme=tokyonight" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=omkumarmangukiya&theme=tokyonight" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=zeel72&show_icons=true&theme=tokyonight" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=zeel72&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=omkumarmangukiya&theme=tokyo-night" alt="Contribution Graph" />
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=zeel72&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=omkumarmangukiya&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="trophy" />
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=zeel72&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="trophy" />
 </div>
 
 <br/>
