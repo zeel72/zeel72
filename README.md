@@ -1,113 +1,102 @@
-# 🚀 <PROJECT NAME>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="350" alt="coding"/>
+</div>
 
-[![License](https://img.shields.io/github/license/zeel72/<REPO-NAME>?style=for-the-badge)](LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg?style=for-the-badge)](https://github.com/zeel72/<REPO-NAME>/graphs/commit-activity)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge)](https://github.com/zeel72/zeel/issues)
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Welcome to Om Mangukiya's Profile!
+</h1>
 
-> A concise, one-sentence description of your project and its primary goal.
-> Example: "A modern, highly performant CRUD application for managing code snippets using Next.js."
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
-## 🖼️ Live Demo & Screenshots
+<br/>
 
-**<Link to Live Demo (e.g., Vercel, Netlify)>**
+## About Me 🚀
 
-> **Optional:** Insert a GIF or a high-quality screenshot here to immediately catch the user's eye.
->
-> Example: `![Screenshot of the Dashboard](public/screenshot.png)`
+```javascript
+const om = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "TypeScript", "C++", "C"],
+    currently: "Full Stack Developer crafting awesome web applications",
+    askMeAbout: ["web dev", "tech"],
+    challenge: "I am solving bugs and learning new technologies every day",
+    funFact: "Bug fixing is my cardio! 🏃‍♂️💻"
+};
+```
 
-## ✨ Features
+- 🔭 I'm a passionate Full Stack Developer from India
+- 🌱 I'm currently exploring new technologies and building cool projects
+- ⚡ Fun fact: I love solving errors (cause it's a big headache! 🤯)
+- 💬 Ask me about JavaScript, React, Node.js, or any tech-related stuff
+- 🎯 Goal: To contribute more to Open Source projects
 
-Here are the key features and capabilities of this project:
-
-* $\✅$ **Feature 1:** E.g., Full CRUD (Create, Read, Update, Delete) functionality for data models.
-* $\⚡️$ **Feature 2:** E.g., Server-Side Rendering (SSR) for enhanced SEO and performance.
-* $\🎨$ **Feature 3:** E.g., Built with a responsive design using Tailwind CSS for a great mobile experience.
-* $\🔒$ **Feature 4:** E.g., Secure authentication and authorization powered by NextAuth.js.
+<br/>
 
 ## 🛠️ Tech Stack
 
-This project is built using the following attractive and modern technologies:
+### Languages & Frameworks 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-| Category | Technology | Description |
-| :--- | :--- | :--- |
-| **Framework** | **Next.js** | A React framework for production. |
-| **Language** | **TypeScript** | JavaScript with syntax for types. |
-| **Styling** | **Tailwind CSS** | A utility-first CSS framework for rapid UI development. |
-| **Database** | **<Database Name>** | E.g., PostgreSQL/MongoDB/SQLite. |
-| **Authentication** | **<Auth Library>** | E.g., NextAuth.js, Clerk. |
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
----
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 🚀 Getting Started
+<br/>
 
-Follow these steps to set up and run the project locally.
+## 📊 GitHub Stats
 
-### Prerequisites
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=omkumarmangukiya&show_icons=true&theme=tokyonight" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=omkumarmangukiya&theme=tokyonight" />
+</div>
 
-You need the following software installed:
+<div align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=omkumarmangukiya&theme=tokyo-night" alt="Contribution Graph" />
+</div>
 
-* Node.js (LTS version)
-* npm or yarn (preferred)
+## 🏆 GitHub Trophies
+<div align="center">
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=omkumarmangukiya&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="trophy" />
+</div>
 
-### Installation
+<br/>
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/zeel72/](https://github.com/zeel72/)<REPO-NAME>.git
-    cd <REPO-NAME>
-    ```
+## 🤝 Connect with Me
 
-2.  **Install dependencies:**
-    ```bash
-    npm install 
-    # OR
-    yarn install
-    ```
+<div align="center">
+  <a href="https://twitter.com/ommaniscoding" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.leetcode.com/iamom" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="chiefiscoding@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
-### Running Locally
-
-1.  **Set up Environment Variables:**
-    Create a file named `.env.local` in the root directory and add your necessary keys (e.g., Database URLs, API Keys).
-
-    ```bash
-    # Example .env.local content
-    DATABASE_URL="<your_db_connection_string>"
-    NEXTAUTH_SECRET="<a_random_secret_key>"
-    ```
-
-2.  **Start the development server:**
-    ```bash
-    npm run dev
-    # OR
-    yarn dev
-    ```
-
-3.  Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
-
----
-
-## 🤝 Contributing
-
-Contributions are always welcome! If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
-## 👤 Author
-
-**Zeel Patel**
-
-* **GitHub:** [@zeel72](https://github.com/zeel72)
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Portfolio:** [Your Personal Website/Portfolio Link]
+<div align="center">
+  <h3>🐍 My Contribution Graph</h3>
+  <img src="https://github.com/omkumarmangukiya/omkumarmangukiya/blob/master/dist/github-contribution-grid-snake.svg" alt="snake"/>
+</div>
 
 ---
-
-## 📄 License
-
-Distributed under the **<License Type, e.g., MIT>** License. See `LICENSE` for more information.
-
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=omkumarmangukiya&style=flat-square&color=blue" alt="Profile views" />
+</div>
