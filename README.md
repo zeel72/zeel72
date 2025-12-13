@@ -8,7 +8,7 @@
 - 💻 Interested in **Backend Development & Core CS**
 - 🧠 Strong focus on **OS, DBMS, CN, Cryptography**
 - 🚀 Working on real-world academic & personal projects
-- 📫 Reach me at: **meetmoradiya4321@gmail.com**
+- 📫 Reach me at: **zeelmj272@gmail.com**
 
 ---
 
@@ -51,7 +51,7 @@
 
 ### 🌐 Connect With Me
 <p>
-  <a href="mailto:meetmoradiya4321@gmail.com">
+  <a href="mailto:zeelmj272@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail">
   </a>
 </p>
