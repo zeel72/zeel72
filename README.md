@@ -16,7 +16,7 @@
 ## About Me 🚀
 
 ```javascript
-const om = {
+const zeel = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "TypeScript", "C++", "C"],
     currently: "Full Stack Developer crafting awesome web applications",
